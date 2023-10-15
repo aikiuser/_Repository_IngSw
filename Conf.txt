@@ -1,0 +1,3 @@
+Path=C:/Users/CORLANDO/eclipse-workspace/TestB11_CSV_Example/src/
+File=Esempio.csv
+delimiter=,
